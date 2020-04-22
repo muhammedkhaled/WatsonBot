@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WatsonBot</string>
+    <string name="message">Say your message</string>
+</resources>
